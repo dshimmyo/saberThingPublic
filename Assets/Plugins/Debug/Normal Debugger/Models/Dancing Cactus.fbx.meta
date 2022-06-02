@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 34365aeee388849d5a78a42358a7b632
+timeCreated: 1438325648
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cactus_normals:arm
+    100004: cactus_normals:arm1
+    100006: cactus_normals:arm2
+    100008: cactus_normals:arm3
+    100010: cactus_normals:cactus_body_
+    100012: cactus_normals:cactus_body_1
+    100014: cactus_normals:cactus_body_2
+    100016: cactus_normals:cactus_body_3
+    100018: cactus_normals:cactus_mesh:cactus_1
+    100020: cactus_normals:cactus_mesh:cactus_2
+    100022: cactus_normals:cactus_mesh:cactus_3
+    100024: cactus_normals:cactus_mesh:cactus_mesh
+    100026: cactus_normals:cactus_mesh:pot2
+    100028: cactus_normals:cactus_mesh:sombrero
+    100030: cactus_normals:cactus_plant
+    100032: cactus_normals:hat
+    100034: cactus_normals:hat_brim
+    100036: cactus_normals:hat_top
+    100038: cactus_normals:pot1
+    400000: //RootNode
+    400002: cactus_normals:arm
+    400004: cactus_normals:arm1
+    400006: cactus_normals:arm2
+    400008: cactus_normals:arm3
+    400010: cactus_normals:cactus_body_
+    400012: cactus_normals:cactus_body_1
+    400014: cactus_normals:cactus_body_2
+    400016: cactus_normals:cactus_body_3
+    400018: cactus_normals:cactus_mesh:cactus_1
+    400020: cactus_normals:cactus_mesh:cactus_2
+    400022: cactus_normals:cactus_mesh:cactus_3
+    400024: cactus_normals:cactus_mesh:cactus_mesh
+    400026: cactus_normals:cactus_mesh:pot2
+    400028: cactus_normals:cactus_mesh:sombrero
+    400030: cactus_normals:cactus_plant
+    400032: cactus_normals:hat
+    400034: cactus_normals:hat_brim
+    400036: cactus_normals:hat_top
+    400038: cactus_normals:pot1
+    4300000: cactus_normals:cactus_mesh:cactus_1
+    4300002: cactus_normals:cactus_mesh:cactus_2
+    4300004: cactus_normals:cactus_mesh:cactus_3
+    4300006: cactus_normals:cactus_mesh:pot2
+    4300008: cactus_normals:cactus_mesh:sombrero
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cactus_normals:cactus_mesh:cactus_1
+    13700002: cactus_normals:cactus_mesh:cactus_2
+    13700004: cactus_normals:cactus_mesh:cactus_3
+    13700006: cactus_normals:cactus_mesh:pot2
+    13700008: cactus_normals:cactus_mesh:sombrero
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cactus_normals:cactus_mesh:cactus_mesh
+        weight: 1
+      - path: cactus_normals:cactus_mesh:cactus_mesh/cactus_normals:cactus_mesh:cactus_1
+        weight: 1
+      - path: cactus_normals:cactus_mesh:cactus_mesh/cactus_normals:cactus_mesh:cactus_2
+        weight: 1
+      - path: cactus_normals:cactus_mesh:cactus_mesh/cactus_normals:cactus_mesh:cactus_3
+        weight: 1
+      - path: cactus_normals:cactus_mesh:cactus_mesh/cactus_normals:cactus_mesh:pot2
+        weight: 1
+      - path: cactus_normals:cactus_mesh:cactus_mesh/cactus_normals:cactus_mesh:sombrero
+        weight: 1
+      - path: cactus_normals:cactus_plant
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:arm1
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:arm1/cactus_normals:arm2
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2/cactus_normals:arm
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2/cactus_normals:arm/cactus_normals:arm3
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2/cactus_normals:cactus_body_3
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2/cactus_normals:cactus_body_3/cactus_normals:hat
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2/cactus_normals:cactus_body_3/cactus_normals:hat/cactus_normals:hat_brim
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:cactus_body_/cactus_normals:cactus_body_1/cactus_normals:cactus_body_2/cactus_normals:cactus_body_3/cactus_normals:hat/cactus_normals:hat_top
+        weight: 1
+      - path: cactus_normals:cactus_plant/cactus_normals:pot1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - headTarget
+  - Enemy
+  - Grabbable
+  - Cuttable
+  - isCutting
+  - Lightsaber
+  - KillSpark
+  - Bee
+  - ForceObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Target
+  - BodyCapsule
+  - BloodSplatterPlane
+  - Floor
+  - Lightsaber
+  - MagneticSpawn
+  - HUD
+  - Cuttable
+  - MenuLight
+  - Barrier
+  - LightsaberInHand
+  - 
+  - PostProcessTest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

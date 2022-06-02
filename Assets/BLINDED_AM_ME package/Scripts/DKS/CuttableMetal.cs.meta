@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c094c6d477ae534dab99718ebd7a35b
+timeCreated: 1523479372
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cutMat: {fileID: 2100000, guid: d4a3977e03a7b4d4bbcc21f11b94103e, type: 2}
+  - hotMetalLight: {fileID: 1889958620277754, guid: 67d8bd0b357cf9241a3183ed32814986,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

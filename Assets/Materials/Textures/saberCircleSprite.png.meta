@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: cb1f80210788c2e4c97487f71fc8f59e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8433346845087511027
+    second: saberCircleSprite_0
+  - first:
+      213: 5473033370550684741
+    second: saberCircleSprite_1
+  - first:
+      213: 8721045561957110757
+    second: saberCircleSprite_2
+  - first:
+      213: 2084412976327511520
+    second: saberCircleSprite_3
+  - first:
+      213: 7835892572133697533
+    second: saberCircleSprite_4
+  - first:
+      213: -8176179396847271385
+    second: saberCircleSprite_5
+  - first:
+      213: -3360642989033408234
+    second: saberCircleSprite_6
+  - first:
+      213: 5602095526027485063
+    second: saberCircleSprite_7
+  - first:
+      213: -2431183444820907987
+    second: saberCircleSprite_8
+  - first:
+      213: -1874506472360790203
+    second: saberCircleSprite_9
+  - first:
+      213: -4113330280086428113
+    second: saberCircleSprite_10
+  - first:
+      213: -8147391913667456367
+    second: saberCircleSprite_11
+  - first:
+      213: 2420965346973179504
+    second: saberCircleSprite_12
+  - first:
+      213: 3283385765379835752
+    second: saberCircleSprite_13
+  - first:
+      213: -889278848582261104
+    second: saberCircleSprite_14
+  - first:
+      213: -1286468061633571032
+    second: saberCircleSprite_15
+  - first:
+      213: 1991782352164147684
+    second: saberCircleSprite_16
+  - first:
+      213: -2084094420429106369
+    second: saberCircleSprite_17
+  - first:
+      213: -7551403700274035294
+    second: saberCircleSprite_18
+  - first:
+      213: 8254261703671387673
+    second: saberCircleSprite_19
+  - first:
+      213: 6474622576340521764
+    second: saberCircleSprite_20
+  - first:
+      213: 1265271656074159319
+    second: saberCircleSprite_21
+  - first:
+      213: 2767068874078216938
+    second: saberCircleSprite_22
+  - first:
+      213: 7926012582354264100
+    second: saberCircleSprite_23
+  - first:
+      213: 6702058173104671369
+    second: saberCircleSprite_24
+  - first:
+      213: -4996251575697425191
+    second: saberCircleSprite_25
+  - first:
+      213: -3728833897456535955
+    second: saberCircleSprite_26
+  - first:
+      213: 5044533322038675456
+    second: saberCircleSprite_27
+  - first:
+      213: -5617898419170136520
+    second: saberCircleSprite_28
+  - first:
+      213: 4195871634602232065
+    second: saberCircleSprite_29
+  - first:
+      213: -5505516073259829396
+    second: saberCircleSprite_30
+  - first:
+      213: 7568279674121973361
+    second: saberCircleSprite_31
+  - first:
+      213: -5216655217445196202
+    second: saberCircleSprite_32
+  - first:
+      213: 3927067002068001745
+    second: saberCircleSprite_33
+  - first:
+      213: 6559353354737671255
+    second: saberCircleSprite_34
+  - first:
+      213: 9069658834673293164
+    second: saberCircleSprite_35
+  - first:
+      213: 1191182233976926798
+    second: saberCircleSprite_36
+  - first:
+      213: -1902342322349886081
+    second: saberCircleSprite_37
+  - first:
+      213: -7344138054926060648
+    second: saberCircleSprite_38
+  - first:
+      213: 8176425906079132258
+    second: saberCircleSprite_39
+  - first:
+      213: 6511823697255826383
+    second: saberCircleSprite_40
+  - first:
+      213: -4118890152268248287
+    second: saberCircleSprite_41
+  - first:
+      213: -490960424005030730
+    second: saberCircleSprite_42
+  - first:
+      213: 3986660516250556342
+    second: saberCircleSprite_43
+  - first:
+      213: -7799553353150906323
+    second: saberCircleSprite_44
+  - first:
+      213: 2653420816193103067
+    second: saberCircleSprite_45
+  - first:
+      213: -8684384440058282527
+    second: saberCircleSprite_46
+  - first:
+      213: 3395083927498533982
+    second: saberCircleSprite_47
+  - first:
+      213: -6503131884144251042
+    second: saberCircleSprite_48
+  - first:
+      213: -340738460867611485
+    second: saberCircleSprite_49
+  - first:
+      213: 7037231603997283186
+    second: saberCircleSprite_50
+  - first:
+      213: 4107040328709181713
+    second: saberCircleSprite_51
+  - first:
+      213: -1258351829840717242
+    second: saberCircleSprite_52
+  - first:
+      213: 908915006321224926
+    second: saberCircleSprite_53
+  - first:
+      213: -5031858898961238208
+    second: saberCircleSprite_54
+  - first:
+      213: -402292100990233418
+    second: saberCircleSprite_55
+  - first:
+      213: 1419071523269948641
+    second: saberCircleSprite_56
+  - first:
+      213: -4732377380322605919
+    second: saberCircleSprite_57
+  - first:
+      213: -8184068863651790200
+    second: saberCircleSprite_58
+  - first:
+      213: -750265524920699763
+    second: saberCircleSprite_59
+  - first:
+      213: -1587014733939790213
+    second: saberCircleSprite_60
+  - first:
+      213: 8372637650955381309
+    second: saberCircleSprite_61
+  - first:
+      213: -1967457683849912736
+    second: saberCircleSprite_62
+  - first:
+      213: 5974664030317790381
+    second: saberCircleSprite_63
+  - first:
+      213: 1624725965241961084
+    second: saberCircleSprite_64
+  - first:
+      213: -1796443409450179766
+    second: saberCircleSprite_65
+  - first:
+      213: -4223192781046602482
+    second: saberCircleSprite_66
+  - first:
+      213: -6662742695928234696
+    second: saberCircleSprite_67
+  - first:
+      213: -2714497442706671906
+    second: saberCircleSprite_68
+  - first:
+      213: 3692493387408852771
+    second: saberCircleSprite_69
+  - first:
+      213: -7109142547231394656
+    second: saberCircleSprite_70
+  - first:
+      213: -3393400086662105103
+    second: saberCircleSprite_71
+  - first:
+      213: -6061432337763959595
+    second: saberCircleSprite_72
+  - first:
+      213: -5272943772828307018
+    second: saberCircleSprite_73
+  - first:
+      213: 2089360629844209186
+    second: saberCircleSprite_74
+  - first:
+      213: -1971538111113858879
+    second: saberCircleSprite_75
+  - first:
+      213: -2773803140494244251
+    second: saberCircleSprite_76
+  - first:
+      213: 5833481919205261765
+    second: saberCircleSprite_77
+  - first:
+      213: -3626466120744392890
+    second: saberCircleSprite_78
+  - first:
+      213: 5251190546091156808
+    second: saberCircleSprite_79
+  - first:
+      213: 2781979004033921795
+    second: saberCircleSprite_80
+  - first:
+      213: -1062990162374729458
+    second: saberCircleSprite_81
+  - first:
+      213: 6274861112960545011
+    second: saberCircleSprite_82
+  - first:
+      213: -1153337610214870651
+    second: saberCircleSprite_83
+  - first:
+      213: -4140594364758670552
+    second: saberCircleSprite_84
+  - first:
+      213: 1874264816961147737
+    second: saberCircleSprite_85
+  - first:
+      213: -1310923200739545389
+    second: saberCircleSprite_86
+  - first:
+      213: -6387890444600220668
+    second: saberCircleSprite_87
+  - first:
+      213: 2033359219600894617
+    second: saberCircleSprite_88
+  - first:
+      213: -2697491193179762659
+    second: saberCircleSprite_89
+  - first:
+      213: -4727087211002362407
+    second: saberCircleSprite_90
+  - first:
+      213: 1645484500686915394
+    second: saberCircleSprite_91
+  - first:
+      213: 7922955423414827047
+    second: saberCircleSprite_92
+  - first:
+      213: 612324154488723132
+    second: saberCircleSprite_93
+  - first:
+      213: 4399635999577609736
+    second: saberCircleSprite_94
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saberCircleSprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1875.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bb41afcb7e6f34da6ff1653cba4153
+      internalID: -8433346845087511027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1875.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669557d4a9e45043a9bd000a839de5e
+      internalID: 5473033370550684741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1875.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86107ff580cee44866e57fa9db34b0
+      internalID: 8721045561957110757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1875.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f87342cfabe842bc29ab06d23429d
+      internalID: 2084412976327511520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1875.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7474dea3140542b50a3fb821f3d04
+      internalID: 7835892572133697533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1771.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159a395ac31179459d9581679241c97
+      internalID: -8176179396847271385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1771.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefaf164169f10047807fcb00237aa4e
+      internalID: -3360642989033408234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1771.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e9fd861a6cbfb4d8f10329b8cd6e46
+      internalID: 5602095526027485063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1771.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed5ab371ba34264faf057fe13530674
+      internalID: -2431183444820907987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1771.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255e705bc16cf74b8e358a1c565151c
+      internalID: -1874506472360790203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1667.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fc5de8d8c63b40bedc68e4d296974
+      internalID: -4113330280086428113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1667.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad65d1411b29a4c87b1155a7a90e3b
+      internalID: -8147391913667456367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1667.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e792bbcdab69bd4ab2fa2ef8573f4a2
+      internalID: 2420965346973179504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1667.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a90b61346ec099429a8a7905044f10c
+      internalID: 3283385765379835752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1667.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dbb6901f7a21243972f06669b50ab5
+      internalID: -889278848582261104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1563.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069a16f5f28d3d45b9275c6f87d0191
+      internalID: -1286468061633571032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1563.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d490b94fd18442aa2609e7fc04286
+      internalID: 1991782352164147684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1563.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c633fbbf1d858964e9253f41cbc878a2
+      internalID: -2084094420429106369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1563.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875684a207769a4c81c33ed03c2cb1d
+      internalID: -7551403700274035294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1563.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46fe0ea10ae4c442acdc81823bfa951
+      internalID: 8254261703671387673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1459.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058f8722fc739046b21285ba6eec099
+      internalID: 6474622576340521764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1459.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efbc6e218dd0d14aa3ca88db0024ae2
+      internalID: 1265271656074159319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1459.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1ef606a2ce3743a0cdc5db86d58a3
+      internalID: 2767068874078216938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1459.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76846ffc6f91313408a561769b0bbbcf
+      internalID: 7926012582354264100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1459.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1057f4b125d7a044aa91cc6e5e567512
+      internalID: 6702058173104671369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1355.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9689931b0169d142944cded8c9285af
+      internalID: -4996251575697425191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1355.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1801722d1f35cae49bc00219e4aa8f13
+      internalID: -3728833897456535955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1355.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91c7b19d0aa6f4289f02ab71387cc4
+      internalID: 5044533322038675456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1355.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af2bd6b3500d644ca07d49e0d4220f9
+      internalID: -5617898419170136520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1355.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3777e2d928cbaed46b15e2e740ee221c
+      internalID: 4195871634602232065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1251.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c8b70effbec04a8c7e8a174977377
+      internalID: -5505516073259829396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1251.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f9dc39492606428c1e95b6dbc02d0
+      internalID: 7568279674121973361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1251.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d439b4769c1ad419b63ee8ba832e08
+      internalID: -5216655217445196202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1251.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9437c9f3509a14084290633e0c2f41
+      internalID: 3927067002068001745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1251.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9272162818a24eb4a8ba3d316d91e4d9
+      internalID: 6559353354737671255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1147.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5274168a1bd7c5743b6414f1243af62b
+      internalID: 9069658834673293164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1147.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741abdc3e130894db26ce8b55cb9c33
+      internalID: 1191182233976926798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1147.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b49c2c8a27dc34dbcaa052f0c2be27
+      internalID: -1902342322349886081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1147.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16260d7799ec2df459f7c05849365305
+      internalID: -7344138054926060648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1147.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb2d8a296ae03458d135a0d729c26b
+      internalID: 8176425906079132258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1043.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de064bc6a5243c498ee0dc5a1e5833b
+      internalID: 6511823697255826383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1043.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c235b8773382d4fa65a634660a0264
+      internalID: -4118890152268248287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1043.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f411a349cb564cb79ad95687dec81
+      internalID: -490960424005030730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1043.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84538d478e627e747b67ebab602037c5
+      internalID: 3986660516250556342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1043.8948
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731caaf067487c0438710c85109fe879
+      internalID: -7799553353150906323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 939.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be455ee719ea794e993e2eca7f0b5f6
+      internalID: 2653420816193103067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 939.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff8c7956b787c4a880f0252c65e349
+      internalID: -8684384440058282527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 939.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fdfa62e034227478ed61df5e839ffb
+      internalID: 3395083927498533982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_48
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 939.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb212235cf08ce45917837f07fca0d5
+      internalID: -6503131884144251042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 939.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d6fe06e2ebfd4ea0218013895964e
+      internalID: -340738460867611485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 835.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42fe58917d975c418f6d6eda4204372
+      internalID: 7037231603997283186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 835.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd101ebd531c7ca498036f87ff819a8e
+      internalID: 4107040328709181713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 835.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14e3dc0c4435c4f84a920891660975
+      internalID: -1258351829840717242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_53
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 835.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4e74338ff1094c8376af8eb037b56
+      internalID: 908915006321224926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 835.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30814647cbb46b744911bb6a251602e7
+      internalID: -5031858898961238208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 731.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc237ce45c06b4e96dba2c8c827385
+      internalID: -402292100990233418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 731.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a7779b91c22f44b975cb916ed09b5
+      internalID: 1419071523269948641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 731.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291cd4bd90af810438d8b61160ae1c85
+      internalID: -4732377380322605919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 731.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0ce11c92685f46870bc1cfacc7c56
+      internalID: -8184068863651790200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 731.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfafcc67e9ff92847bb245b690c76dfd
+      internalID: -750265524920699763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 627.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1896fbf4975b49b66ddd37299f262
+      internalID: -1587014733939790213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 627.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f015523c634c3264085e46cd3a024a12
+      internalID: 8372637650955381309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 627.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d309eb74962354bbbdc1e04d79469e
+      internalID: -1967457683849912736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_63
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 627.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba659c7777962e947a56845cd815da74
+      internalID: 5974664030317790381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 627.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c56e43ad413746896f7e586b862d2
+      internalID: 1624725965241961084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 523.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3dba3254a5574795bce09d710595d
+      internalID: -1796443409450179766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_66
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 523.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26fd9577855a749b73b603c6fb6921
+      internalID: -4223192781046602482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 523.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2cbb2e947d1741a4adfd65f6e50f4
+      internalID: -6662742695928234696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 523.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c12ef7dfd08eea40a509dc3802d835a
+      internalID: -2714497442706671906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_69
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 523.8947
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850bdbd6bbf8324f9c839e91d590e67
+      internalID: 3692493387408852771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 419.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f89fb2534a27498639d1e5257609f
+      internalID: -7109142547231394656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 419.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be53729cfaedf6844a7b9ff58000262f
+      internalID: -3393400086662105103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 419.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a8f0c63d93d044b833764b0c567ad
+      internalID: -6061432337763959595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_73
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 419.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b853452932a8b34db11a39842d3f78e
+      internalID: -5272943772828307018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_74
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 419.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fb816e5833af4cad33f153b8e5fe1
+      internalID: 2089360629844209186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 315.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81907013a85e14eb2b64ec9abe5776
+      internalID: -1971538111113858879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 315.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88041731e2e6fe04886bbc7b000d5a66
+      internalID: -2773803140494244251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 315.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dc91949081d3d40b75056199756d71
+      internalID: 5833481919205261765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_78
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 315.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fee485656e00d4099c3b56e6fcc8ee
+      internalID: -3626466120744392890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_79
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 315.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63304eece335ae54785e0024eeaa9351
+      internalID: 5251190546091156808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 211.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbfe2268186294a811ca87ed87f47d
+      internalID: 2781979004033921795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 211.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1528e63c75c249b97ca7221af4a46
+      internalID: -1062990162374729458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 211.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5d8c9b4f65ed48818b9ed55d6a9c8
+      internalID: 6274861112960545011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_83
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 211.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083828dd8e12d054194e7c469989c412
+      internalID: -1153337610214870651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 211.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097be77933866a44eb6e8958b1798e36
+      internalID: -4140594364758670552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34937530877d013439844e25a7425f40
+      internalID: 1874264816961147737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 107.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf12db30aa4d741bc203352a620498
+      internalID: -1310923200739545389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 107.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b131295bd2a1439bd24b3399843b3
+      internalID: -6387890444600220668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_88
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 107.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf8d956c24a06642bf13b30abd5a076
+      internalID: 2033359219600894617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_89
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 107.89474
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f354bc4019b345ad33ab0fa4c8afb
+      internalID: -2697491193179762659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3.8947372
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ad9a75b3f91a4381b7c6de754dc0f
+      internalID: -4727087211002362407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_91
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3.8947372
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ff98984f13e744ac4cac7b29d2930
+      internalID: 1645484500686915394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3.8947372
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b196fe9de9a843a8ff9230266f059
+      internalID: 7922955423414827047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3.8947372
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfbdbf149fcfd24f9e0f9cd25bee6e6
+      internalID: 612324154488723132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saberCircleSprite_94
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3.8947372
+        width: 102.4
+        height: 102.10526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcbb64dbe5c8ea47a08c910099d5634
+      internalID: 4399635999577609736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a020248e1e39f35498f9286b5015cc4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

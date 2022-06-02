@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: saberCutSplashMaterial
+  m_Shader: {fileID: 4800000, guid: 1d8973ac4abacea47be087b80acc800b, type: 3}
+  m_ShaderKeywords: _HEATCOLORLOOKUPTOGGLE_ON _HEATSIGNALENCODEMAPTOGGLE_ON _HEATSIGNALENCODETOGGLE_ON
+    _NORMALDISPLACEMENT_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: d62c9b1c4fb818943916e634d8585543, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeatColorLookup:
+        m_Texture: {fileID: 2800000, guid: ee188701035a84d52ae8a942e54ed14d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeatEncodeTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeatMap:
+        m_Texture: {fileID: 2800000, guid: fa557fc535a754156931062816e15a2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 95b937dcf95093e47843ab8a2f4e015a, type: 3}
+        m_Scale: {x: 0.2, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _Specular:
+        m_Texture: {fileID: 2800000, guid: 34591d7bc3e8eb44db8faf19ddd26466, type: 3}
+        m_Scale: {x: 0.2, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CheapToggle: 0
+    - _CoolTime: 3
+    - _EmissionGain: 12.93
+    - _HeatColorLookup: 0
+    - _HeatColorLookupToggle: 1
+    - _HeatEmissionBoost: 12.9
+    - _HeatFromVertColorToggle: 0
+    - _HeatInterval: 15
+    - _HeatMapMin: 0
+    - _HeatSignalEncodeMapToggle: 1
+    - _HeatSignalEncodeToggle: 1
+    - _HeatStart: 0
+    - _HeatTime: 5
+    - _Smoothness: 0
+    - _SpecGain: 0
+    - _StartTime: 0
+    m_Colors:
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Heat1Color: {r: 1, g: 0, b: 0, a: 1}
+    - _HeatColor: {r: 1, g: 1, b: 0, a: 1}
+    - _HeatEndColor: {r: 1, g: 0, b: 0, a: 1}
+    - _HeatStartColor: {r: 1, g: 1, b: 0, a: 1}
