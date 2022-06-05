@@ -98,7 +98,7 @@ public class lightSaberControl : MonoBehaviour {
                 if (!audioSource.isPlaying)
                     audioSource.Play();
             }
-
+            if (_anim)
             _anim.SetBool("isOn",true);
 
     }
