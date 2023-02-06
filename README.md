@@ -21,3 +21,7 @@ In order to deploy on an Oculus Quest 2, make sure you're using the default andr
 This project uses all custom VR mechanics, a modified MeshCut asset from years ago (from another author, Dustin Whirle), and if I'm not mistaken I'm using the Oculus Integration package
 
 That's all for now, good luck!
+
+02/05/2023
+
+I've just posted a video on getting started with this project from downloading to deploying to Windows and Oculus Quest 2. [https://youtu.be/Xz1WQihkBJg](https://youtu.be/Xz1WQihkBJg)
